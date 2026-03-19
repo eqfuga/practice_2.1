@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "\u0410\u042b\u0410\u042b\u0410",
+    "author": "\u042f",
+    "year": 2009,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "\u0416\u0416\u0416",
+    "author": "9",
+    "year": 2000,
+    "available": false
+  }
+]
